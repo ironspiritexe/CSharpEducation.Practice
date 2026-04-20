@@ -1,0 +1,18 @@
+﻿{
+  "solution": {
+    "path": "CSharpEducation.Practice.sln",
+    "projects": [
+      "Practice2\\Task1\\Task1.csproj",
+      "Practice2\\Task2\\Task2.csproj",
+      "Practice2\\Task3\\Task3.csproj",
+      "Practice2\\Task4\\Task4.csproj",
+      "Practice1\\Task1A\\Task1A.csproj",
+      "Practice1\\Task2\\Task2.csproj",
+      "Practice1\\Task3\\Task3.csproj",
+      "Practice1\\Task4\\Task4.csproj",
+      "Practice1\\Task5\\Task5.csproj",
+      "Practice1\\Task6\\Task6.csproj",
+      "Practice1\\Task7\\Task7.csproj"
+    ]
+  }
+}
